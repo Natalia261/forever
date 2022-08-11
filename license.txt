@@ -1,0 +1,11 @@
+Model Information:
+* title:	Forever and Ever
+* source:	https://sketchfab.com/3d-models/forever-and-ever-9052fd05bf6b4b888f92bc44604dd9d5
+* author:	overevolve (https://sketchfab.com/overevolve)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Forever and Ever" (https://sketchfab.com/3d-models/forever-and-ever-9052fd05bf6b4b888f92bc44604dd9d5) by overevolve (https://sketchfab.com/overevolve) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
